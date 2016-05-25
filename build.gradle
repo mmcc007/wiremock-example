@@ -1,0 +1,10 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile 'com.github.tomakehurst:wiremock:2.0.10-beta'
+    testCompile 'com.jayway.restassured:rest-assured:2.9.0'
+}
