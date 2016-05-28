@@ -3,7 +3,7 @@ Example of using [WireMock](http://wiremock.org/) with [RestAssured](https://git
 
 [![Build Status](https://travis-ci.org/mmcc007/wiremock-example.svg?branch=master&style=flat-square)](https://travis-ci.org/mmcc007/wiremock-example)
 
-Built with Gradle. 
+Built with [Gradle](http://gradle.org/). 
 
 Source sourced from http://www.ontestautomation.com/getting-started-with-wiremock/
 
