@@ -1,5 +1,5 @@
 # wiremock-example
-Example of using WireMock with RestAssured
+Example of using [WireMock](http://wiremock.org/) with [RestAssured](https://github.com/rest-assured/rest-assured)
 
 [![Build Status](https://travis-ci.org/mmcc007/wiremock-example.svg?branch=master&style=flat-square)](https://travis-ci.org/mmcc007/wiremock-example)
 
